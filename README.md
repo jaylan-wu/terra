@@ -8,6 +8,6 @@ Inspired by Tomogachi, it responds to its users through various different variab
 I worked alongside my friends & collegues Ivan Bao, Varun Navadia, and JunHo So to bring this prototype to life. Spring 2022.
 
 ## Contact the Team
-Feel free to contact me with questions and inquiries at [LinkedIn](https://www.linkedin.com/in/jaylan-wu/) or [Email](jaylan.wu@nyu.edu)
+Feel free to contact me with questions and inquiries at [LinkedIn](https://www.linkedin.com/in/jaylan-wu/) or [Email](jaylan.wu@nyu.edu)!
 
 
