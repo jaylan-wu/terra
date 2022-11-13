@@ -1,4 +1,4 @@
-# Terra
+# :seedling: Terra
 <img src="./photos/terra.png" height="475px" alt="terra photo" align="right"/>
 
 Terra is a beginner-friendly interactive planting pot designed that is available for people of all ages!
